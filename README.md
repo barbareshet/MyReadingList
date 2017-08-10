@@ -3,7 +3,7 @@ A list of links to articles, Tools and tutorials to help me improve my skills an
 
 ## Web Dev Reading (specific articles):
 How to Deploy a WordPress Plugin From TravisCI to WordPress.org - https://code.tutsplus.com/tutorials/how-to-deploy-wordpress-plugin-from-travisci-to-wordpressorg--cms-28831
-
+* [WordPress Meta Box the OOP Way](https://w3guy.com/wordpress-meta-box-oop/)
 ## WordPress Development(WP Related blogs):
 Tom Mc'Farlin'S blog: https://tommcfarlin.com
 Igor Benic's site: http://www.ibenic.com/
