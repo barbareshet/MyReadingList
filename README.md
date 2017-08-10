@@ -4,7 +4,9 @@ A list of links to articles, Tools and tutorials to help me improve my skills an
 * [Markdown syntax guide for README.md file](https://confluence.atlassian.com/bitbucketserver/markdown-syntax-guide-776639995.html)
 * Github Repository [Some useful websites for programmers](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 ## Web Dev Reading (specific articles):
-[How to Deploy a WordPress Plugin From TravisCI to WordPress.org](https://code.tutsplus.com/tutorials/how-to-deploy-wordpress-plugin-from-travisci-to-wordpressorg--cms-28831) 
+
+* [How to Deploy a WordPress Plugin From TravisCI to WordPress.org](https://code.tutsplus.com/tutorials/how-to-deploy-wordpress-plugin-from-travisci-to-wordpressorg--cms-28831)
+* [WordPress Meta Box the OOP Way](https://w3guy.com/wordpress-meta-box-oop/)
 
 ## WordPress Development(WP Related blogs):
 * [Tom Mc'Farlin'S blog](https://tommcfarlin.com) 
