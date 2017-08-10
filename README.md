@@ -7,6 +7,7 @@ A list of links to articles, Tools and tutorials to help me improve my skills an
 
 * [How to Deploy a WordPress Plugin From TravisCI to WordPress.org](https://code.tutsplus.com/tutorials/how-to-deploy-wordpress-plugin-from-travisci-to-wordpressorg--cms-28831)
 * [WordPress Meta Box the OOP Way](https://w3guy.com/wordpress-meta-box-oop/)
+* [Moving Beyond WordPress for CMS with Component IO](https://scotch.io/tutorials/moving-beyond-wordpress-for-cms)
 
 ## WordPress Development(WP Related blogs):
 * [Tom Mc'Farlin'S blog](https://tommcfarlin.com) 
@@ -28,7 +29,7 @@ A list of links to articles, Tools and tutorials to help me improve my skills an
 
 
 ## CSS
-
+* [Level Up Your Websites with Animate.css](https://scotch.io/tutorials/level-up-your-websites-with-animatecss)
 
 ## Web Accessibility
 * Web Content Accessibility Guidelines by [w3c](https://github.com/w3c/wcag)
@@ -43,3 +44,5 @@ A list of links to articles, Tools and tutorials to help me improve my skills an
 * [coding horror](https://blog.codinghorror.com/)
 * [The Clean Code Blog](http://blog.cleancoder.com/)
 * [Programming Challenges & Puzzles](https://www.nayuki.io/category/programming)
+* [Diary of a Web Developer, Writer & Geek.](https://w3guy.com/)
+* [Scotch.io - code. eat. sleep. loop](https://scotch.io/)
