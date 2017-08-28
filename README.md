@@ -13,11 +13,36 @@ A list of links to articles, Tools and tutorials to help me improve my skills an
 * [Create a Mobile Application for Displaying Your Website RSS Content With Ionic](https://code.tutsplus.com/tutorials/create-an-mobile-application-for-displaying-your-website-rss-content-with-ionic--cms-28838)
 * [The 100 Oldest Plugins in The WordPress Plugins Directory](https://isabelcastillo.com/oldest-plugins)
 * [40 Best jQuery Plugins for Web Developers](http://www.webdesigndev.com/best-jquery-plugins/)
-## WordPress Development(WP Related blogs):
+## WordPress Development (WP Related blogs):
 * [Tom Mc'Farlin'S blog](https://tommcfarlin.com) 
 * [Igor Benic's site](http://www.ibenic.com/)
 * [wpmudev blog](https://premium.wpmudev.org/blog/)
 * [WordPress Code Tutorials by Tuts+](https://code.tutsplus.com/categories/wordpress)
+### OOP in WordPress
+* Object-Oriented WordPress Plugin Development by [Tom McFarlin](http://tommcfarlin.com/object-oriented-wordpress-plugin/)
+* WP + You + OOP by[Scott Taylor](http://scotty-t.com/2012/07/09/wp-you-oop/)
+* WordPress: Community and Architecture by [Mike Toppa](http://www.toppa.com/2013/wordpress-community-and-architecture/)
+* Clean Code for WordPress Plugin Development by [Mike Toppa](http://wordpress.tv/2011/11/14/mike-toppa-clean-code-for-wordpress-plugin-development/)
+* Design Patterns in WordPress by [Tom McFarlin](http://wp.tutsplus.com/series/design-patterns-in-wordpress/)
+* Rethinking Object-Oriented WordPress Plugins by [Jonathan Brinley](http://xplus3.net/2011/03/08/rethinking-object-oriented-wordpress-plugins/)
+* To OOP or not to OOP by [Nikolay Bachiyski](http://wordpress.tv/2013/12/08/nikolay-bachiyski-to-oop-or-not-to-oop/)
+* OOP for Theme Development by [Ben Doherty](http://wordpress.tv/2013/06/13/ben-doherty-oop-for-theme-development/)
+* Object-Oriented Programming for WordPress Plugin Development by [Mike Toppa](http://www.slideshare.net/mtoppa/object-oriented-programming-for-wordpress-plugin-development)
+* Designing Object-Oriented Plugins for a Procedural Application by [Ian Dunn](http://iandunn.name/designing-object-oriented-plugins-for-a-procedural-application/)
+
+### WP Starters / Examples
+* [OOP Plugin Template Solution](https://github.com/convissor/oop-plugin-template-solution) by Daniel Convissor
+* [Sidecar](https://github.com/newclarity/sidecar) by Mike Schinkel
+* [WordPress Plugin Boilerplate](https://github.com/tommcfarlin/WordPress-Plugin-Boilerplate/) by Tom McFarlin
+* [Shashin](http://wordpress.org/extend/plugins/shashin/) by Mike Toppa
+* [Tagregator](http://wordpress.org/plugins/tagregator/) by Ian Dunn
+* [WordPress Plugin Skeleton](https://github.com/iandunn/WordPress-Plugin-Skeleton) by Ian Dunn
+* [WordPress Plugin Kickstarter](http://wordpress.org/extend/plugins/wordpress-plugin-kickstarter/) by Vasyl Martyniuk
+* [PW_Archives](http://wordpress.org/extend/plugins/pw-archives/) by Phillip Walton
+* [WordPress starter theme - Underscores](http://underscores.me/)
+
+
+
 
 ## DevTools (main sites and ducomantation)
 * [Travis-CI](https://travis-ci.org/)
