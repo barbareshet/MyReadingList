@@ -85,6 +85,8 @@ A list of links to articles, Tools and tutorials to help me improve my skills an
 * [coding horror](https://blog.codinghorror.com/)
 * [The Clean Code Blog](http://blog.cleancoder.com/)
 * [Programming Challenges & Puzzles](https://www.nayuki.io/category/programming)
+* [Automation with gulp](https://auth0.com/blog/automate-your-development-workflow-with-gulpjs/)
+* [Building a VueJS app](https://auth0.com/blog/build-an-app-with-vuejs/)
 
 ## Themes and Templates
 * [75+ Best Free Bootstrap HTML5 Website Templates](http://webdesigncover.com/best-free-bootstrap-html5-website-templates.html)
