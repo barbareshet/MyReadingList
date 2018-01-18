@@ -10,10 +10,16 @@ A list of links to articles, Tools and tutorials to help me improve my skills an
 * [WordPress Deployment with Deploy, Git and Bitbucket](https://www.ostraining.com/blog/wordpress/deploy-git-wordpress/)
 * [How to Deploy a WordPress Plugin From TravisCI to WordPress.org](https://code.tutsplus.com/tutorials/how-to-deploy-wordpress-plugin-from-travisci-to-wordpressorg--cms-28831)
 * [WordPress Meta Box the OOP Way](https://w3guy.com/wordpress-meta-box-oop/)
+
 * [Create a Mobile Application for Displaying Your Website RSS Content With Ionic](https://code.tutsplus.com/tutorials/create-an-mobile-application-for-displaying-your-website-rss-content-with-ionic--cms-28838)
 * [The 100 Oldest Plugins in The WordPress Plugins Directory](https://isabelcastillo.com/oldest-plugins)
 * [40 Best jQuery Plugins for Web Developers](http://www.webdesigndev.com/best-jquery-plugins/)
 ## WordPress Development (WP Related blogs):
+
+* [Moving Beyond WordPress for CMS with Component IO](https://scotch.io/tutorials/moving-beyond-wordpress-for-cms)
+
+## WordPress Development(WP Related blogs):
+
 * [Tom Mc'Farlin'S blog](https://tommcfarlin.com) 
 * [Igor Benic's site](http://www.ibenic.com/)
 * [wpmudev blog](https://premium.wpmudev.org/blog/)
@@ -59,6 +65,7 @@ A list of links to articles, Tools and tutorials to help me improve my skills an
 
 
 ## CSS
+<<<<<<< HEAD
 ### Demos and Tutorials
 * [A free library of HTML, CSS, JS nuggets](https://codyhouse.co/)
 * [codrops](https://tympanus.net/codrops/)
@@ -68,6 +75,9 @@ A list of links to articles, Tools and tutorials to help me improve my skills an
 * [zurb foundation](http://foundation.zurb.com/)
 * [google's material design](http://materializecss.com/)
 
+=======
+* [Level Up Your Websites with Animate.css](https://scotch.io/tutorials/level-up-your-websites-with-animatecss)
+>>>>>>> origin/master
 
 ## Web Accessibility
 * Web Content Accessibility Guidelines by [w3c](https://github.com/w3c/wcag)
@@ -85,8 +95,13 @@ A list of links to articles, Tools and tutorials to help me improve my skills an
 * [coding horror](https://blog.codinghorror.com/)
 * [The Clean Code Blog](http://blog.cleancoder.com/)
 * [Programming Challenges & Puzzles](https://www.nayuki.io/category/programming)
+<<<<<<< HEAD
 * [Automation with gulp](https://auth0.com/blog/automate-your-development-workflow-with-gulpjs/)
 * [Building a VueJS app](https://auth0.com/blog/build-an-app-with-vuejs/)
 
 ## Themes and Templates
 * [75+ Best Free Bootstrap HTML5 Website Templates](http://webdesigncover.com/best-free-bootstrap-html5-website-templates.html)
+=======
+* [Diary of a Web Developer, Writer & Geek.](https://w3guy.com/)
+* [Scotch.io - code. eat. sleep. loop](https://scotch.io/)
+>>>>>>> origin/master
