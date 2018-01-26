@@ -14,6 +14,11 @@ A list of links to articles, Tools and tutorials to help me improve my skills an
 * [Igor Benic's site](http://www.ibenic.com/)
 * [wpmudev blog](https://premium.wpmudev.org/blog/)
 * [WordPress Code Tutorials by Tuts+](https://code.tutsplus.com/categories/wordpress)
+* ### WordPress Boilerplate and starter themes
+* _s - underscore
+* Plugin Boilerplate
+* understrap
+* woocommerce storefront
 
 ## DevTools (main sites and ducomantation)
 * [Travis-CI](https://travis-ci.org/)
@@ -35,6 +40,12 @@ A list of links to articles, Tools and tutorials to help me improve my skills an
 * Web Content Accessibility Guidelines by [w3c](https://github.com/w3c/wcag)
 * automated accessibility testing pal of [Pa11y](http://pa11y.org/), and [The reposiroty on Github](https://github.com/pa11y/pa11y)
 * [Code samples and documentation for our tutorial "Web Accessibility for the 21st Century"](https://github.com/rahaeli/accessibility)
+* [Is Your Website Accessible?](https://premium.wpmudev.org/blog/website-accessibility-ada/?utm_source=WPMU+DEV+Blog&utm_campaign=1ceb1c7c0f-Weekly_blog_update_081017&utm_medium=email&utm_term=0_591b793ca5-1ceb1c7c0f-104423769)
+* [Web Accessibility by Google on Udacity](https://www.udacity.com/course/web-accessibility--ud891)
+* [Udemy Course](https://www.udemy.com/website-accessibility-course/)
+* [Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/)
+* [The Ultimate Guide to Accessibility and WordPress](https://premium.wpmudev.org/blog/making-wordpress-accessible/)
+* [How to Sell Accessibility to Your Clients](https://premium.wpmudev.org/blog/selling-accessibility-clients/)
 ## Repositories I Like
 *  bootstrap sass and gulp [Link To Repository](https://github.com/leadout/bootstrap-sass-gulp)
 * [Gulp WordPress](https://github.com/ahmadawais/WPGulp)
@@ -46,3 +57,7 @@ A list of links to articles, Tools and tutorials to help me improve my skills an
 * [Programming Challenges & Puzzles](https://www.nayuki.io/category/programming)
 * [Diary of a Web Developer, Writer & Geek.](https://w3guy.com/)
 * [Scotch.io - code. eat. sleep. loop](https://scotch.io/)
+
+## Free html5 themes / templates
+* [templated](https://templated.co/)
+
