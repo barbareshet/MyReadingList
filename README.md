@@ -35,6 +35,7 @@ A list of links to articles, Tools and tutorials to help me improve my skills an
 * OOP for Theme Development by [Ben Doherty](http://wordpress.tv/2013/06/13/ben-doherty-oop-for-theme-development/)
 * Object-Oriented Programming for WordPress Plugin Development by [Mike Toppa](http://www.slideshare.net/mtoppa/object-oriented-programming-for-wordpress-plugin-development)
 * Designing Object-Oriented Plugins for a Procedural Application by [Ian Dunn](http://iandunn.name/designing-object-oriented-plugins-for-a-procedural-application/)
+* Awesome WP Developer Tools [A collection of plugins, starter themes and tools to make WordPress development easier.](https://github.com/lukecav/awesome-wp-developer-tools)
 
 ### WP Starters / Examples
 * [OOP Plugin Template Solution](https://github.com/convissor/oop-plugin-template-solution) by Daniel Convissor
@@ -50,7 +51,7 @@ A list of links to articles, Tools and tutorials to help me improve my skills an
 
 
 
-## DevTools (main sites and ducomantation)
+## DevTools (main sites and documentation)
 * [Travis-CI](https://travis-ci.org/)
 * [gulp](https://gulpjs.com/)
 * [bower](https://bower.io/)
@@ -65,7 +66,7 @@ A list of links to articles, Tools and tutorials to help me improve my skills an
 
 
 ## CSS
-<<<<<<< HEAD
+
 ### Demos and Tutorials
 * [A free library of HTML, CSS, JS nuggets](https://codyhouse.co/)
 * [codrops](https://tympanus.net/codrops/)
@@ -74,10 +75,8 @@ A list of links to articles, Tools and tutorials to help me improve my skills an
 * [bootstrap](http://getbootstrap.com/)
 * [zurb foundation](http://foundation.zurb.com/)
 * [google's material design](http://materializecss.com/)
-
-=======
 * [Level Up Your Websites with Animate.css](https://scotch.io/tutorials/level-up-your-websites-with-animatecss)
->>>>>>> origin/master
+
 
 ## Web Accessibility
 * Web Content Accessibility Guidelines by [w3c](https://github.com/w3c/wcag)
@@ -95,13 +94,24 @@ A list of links to articles, Tools and tutorials to help me improve my skills an
 * [coding horror](https://blog.codinghorror.com/)
 * [The Clean Code Blog](http://blog.cleancoder.com/)
 * [Programming Challenges & Puzzles](https://www.nayuki.io/category/programming)
-<<<<<<< HEAD
 * [Automation with gulp](https://auth0.com/blog/automate-your-development-workflow-with-gulpjs/)
 * [Building a VueJS app](https://auth0.com/blog/build-an-app-with-vuejs/)
 
 ## Themes and Templates
 * [75+ Best Free Bootstrap HTML5 Website Templates](http://webdesigncover.com/best-free-bootstrap-html5-website-templates.html)
-=======
 * [Diary of a Web Developer, Writer & Geek.](https://w3guy.com/)
 * [Scotch.io - code. eat. sleep. loop](https://scotch.io/)
->>>>>>> origin/master
+
+## WooCommerce Dev
+* [Woocommerce main reposritory](https://github.com/woocommerce/woocommerce)
+* [Awesome WooCommerce](https://github.com/lukecav/awesome-woocommerce/blob/master/README.md)
+* [WooCommerce-Salesforce-integration](https://github.com/Neuralab/WooCommerce-Salesforce-integration)
+* [WooCommerce Google Analytics Integration](https://github.com/woocommerce/woocommerce-google-analytics-integration)
+* [WooCommerce PDF Invoices](https://github.com/baselbers/woocommerce-pdf-invoices)
+* [WooCommerce Yoast SEO](https://github.com/Yoast/wpseo-woocommerce)
+* [Developing a WooCommerce Theme](https://github.com/tutsplus/developing-a-woocommerce-theme)
+## Cool Git Repositories / Resources
+* WordPress Premium [Premium WordPress plugins and themes synchronized to GitHub](https://github.com/wp-premium)
+* Tuts+ [repository](https://github.com/tutsplus)
+* Code Snippets WP Speed Up [Code Snippets for WordPress and WooCommercce speed up which can be imported into the plugin.](https://github.com/lukecav/code-snippets-wp-speed-up)
+* [Collection of mostly WordPress Code Snippets](https://github.com/senlin/Code-Snippets)
