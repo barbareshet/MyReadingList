@@ -3,6 +3,7 @@ A list of links to articles, Tools and tutorials to help me improve my skills an
 ## General Web Topics
 * [Markdown syntax guide for README.md file](https://confluence.atlassian.com/bitbucketserver/markdown-syntax-guide-776639995.html)
 * Github Repository [Some useful websites for programmers](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+* [Awesome - Curated list of awesome lists](https://github.com/barbareshet/awesome)
 ## Web Dev Reading (specific articles):
 * [The Beginner’s Guide to Unit Testing: Building a Testable Plugin](https://code.tutsplus.com/articles/the-beginners-guide-to-unit-testing-building-a-testable-plugin--wp-25741)
 * [10+ WP-CLI Tricks to Manage Your WordPress Site](https://www.codeinwp.com/blog/wp-cli/)
@@ -24,6 +25,8 @@ A list of links to articles, Tools and tutorials to help me improve my skills an
 * [Igor Benic's site](http://www.ibenic.com/)
 * [wpmudev blog](https://premium.wpmudev.org/blog/)
 * [WordPress Code Tutorials by Tuts+](https://code.tutsplus.com/categories/wordpress)
+* Awesome WordPress [A curated list of amazingly awesome WordPress resources, themes, plugins and shiny things.](https://github.com/lukecav/awesome-wordpress)
+* WordPress Gear [A bunch of gear for WP developers](https://github.com/lukecav/WordPress-Gear)
 ### OOP in WordPress
 * Object-Oriented WordPress Plugin Development by [Tom McFarlin](http://tommcfarlin.com/object-oriented-wordpress-plugin/)
 * WP + You + OOP by[Scott Taylor](http://scotty-t.com/2012/07/09/wp-you-oop/)
@@ -47,6 +50,7 @@ A list of links to articles, Tools and tutorials to help me improve my skills an
 * [WordPress Plugin Kickstarter](http://wordpress.org/extend/plugins/wordpress-plugin-kickstarter/) by Vasyl Martyniuk
 * [PW_Archives](http://wordpress.org/extend/plugins/pw-archives/) by Phillip Walton
 * [WordPress starter theme - Underscores](http://underscores.me/)
+* Awesome Divi [Resources for theme and page builder Divi.](https://github.com/lukecav/awesome-divi)
 
 
 
@@ -115,3 +119,4 @@ A list of links to articles, Tools and tutorials to help me improve my skills an
 * Tuts+ [repository](https://github.com/tutsplus)
 * Code Snippets WP Speed Up [Code Snippets for WordPress and WooCommercce speed up which can be imported into the plugin.](https://github.com/lukecav/code-snippets-wp-speed-up)
 * [Collection of mostly WordPress Code Snippets](https://github.com/senlin/Code-Snippets)
+* 10up [We make finely crafted websites and tools for content creators](https://github.com/10up)
