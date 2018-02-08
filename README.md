@@ -28,13 +28,12 @@ A list of links to articles, Tools and tutorials to help me improve my skills an
 * [Roy Sivan's Blog](https://roysivan.com/)
 * [wpmudev blog](https://premium.wpmudev.org/blog/)
 * [WordPress Code Tutorials by Tuts+](https://code.tutsplus.com/categories/wordpress)
-<<<<<<< HEAD
+
 * ### WordPress Boilerplate and starter themes
 * _s - underscore
 * Plugin Boilerplate
 * understrap
 * woocommerce storefront
-=======
 * Awesome WordPress [A curated list of amazingly awesome WordPress resources, themes, plugins and shiny things.](https://github.com/lukecav/awesome-wordpress)
 * WordPress Gear [A bunch of gear for WP developers](https://github.com/lukecav/WordPress-Gear)
 ### OOP in WordPress
@@ -63,25 +62,20 @@ A list of links to articles, Tools and tutorials to help me improve my skills an
 * Awesome Divi [Resources for theme and page builder Divi.](https://github.com/lukecav/awesome-divi)
 
 
->>>>>>> origin/master
-
-
 ## DevTools (main sites and documentation)
 * [Travis-CI](https://travis-ci.org/)
 * [gulp](https://gulpjs.com/)
 * [bower](https://bower.io/)
 * [npm](https://www.npmjs.com/)
 
-<<<<<<< HEAD
-=======
+
 ## PHP (as general topic)
 * [Carl Alexander's Blog](https://carlalexander.ca/)
 * [Object Oriented PHP for Beginners](http://www.killerphp.com/tutorials/object-oriented-php/)
 
->>>>>>> origin/master
+
 ## JavaScript and jQuery (main sites and ducomantation)
 * [Jquery.com](https://jquery.com/)
-
 
 ## CSS
 
@@ -100,26 +94,21 @@ A list of links to articles, Tools and tutorials to help me improve my skills an
 * Web Content Accessibility Guidelines by [w3c](https://github.com/w3c/wcag)
 * automated accessibility testing pal of [Pa11y](http://pa11y.org/), and [The reposiroty on Github](https://github.com/pa11y/pa11y)
 * [Code samples and documentation for our tutorial "Web Accessibility for the 21st Century"](https://github.com/rahaeli/accessibility)
-<<<<<<< HEAD
 * [Is Your Website Accessible?](https://premium.wpmudev.org/blog/website-accessibility-ada/?utm_source=WPMU+DEV+Blog&utm_campaign=1ceb1c7c0f-Weekly_blog_update_081017&utm_medium=email&utm_term=0_591b793ca5-1ceb1c7c0f-104423769)
 * [Web Accessibility by Google on Udacity](https://www.udacity.com/course/web-accessibility--ud891)
 * [Udemy Course](https://www.udemy.com/website-accessibility-course/)
 * [Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/)
 * [The Ultimate Guide to Accessibility and WordPress](https://premium.wpmudev.org/blog/making-wordpress-accessible/)
 * [How to Sell Accessibility to Your Clients](https://premium.wpmudev.org/blog/selling-accessibility-clients/)
-=======
 
->>>>>>> origin/master
 ## Repositories I Like
 *  bootstrap sass and gulp [Link To Repository](https://github.com/leadout/bootstrap-sass-gulp)
 * [Gulp WordPress](https://github.com/ahmadawais/WPGulp)
 * [WPGulp Boilerplate](https://github.com/ahmadawais/WPGulpTheme)
-<<<<<<< HEAD
 * [Advanced Gulp Workflow for WordPress Themes](https://ahmadawais.com/my-advanced-gulp-workflow-for-wordpress-themes/)
-=======
 * [The A11Y Project](http://a11yproject.com/)
 * [Web Accessibility Checklist](http://a11yproject.com/checklist.html)
->>>>>>> origin/master
+
 
 ## Blogs of Developers (general)
 * [coding horror](https://blog.codinghorror.com/)
@@ -133,7 +122,7 @@ A list of links to articles, Tools and tutorials to help me improve my skills an
 * [Diary of a Web Developer, Writer & Geek.](https://w3guy.com/)
 * [Scotch.io - code. eat. sleep. loop](https://scotch.io/)
 
-<<<<<<< HEAD
+
 ## Free html5 themes / templates
 * [templated](https://templated.co/)
 
@@ -142,7 +131,6 @@ A list of links to articles, Tools and tutorials to help me improve my skills an
 * [סאבי](https://he.savvy.co.il/blog/)
 * [דורזקי](https://www.dorzki.co.il/)
 
-=======
 ## WooCommerce Dev
 * [Woocommerce main reposritory](https://github.com/woocommerce/woocommerce)
 * [Awesome WooCommerce](https://github.com/lukecav/awesome-woocommerce/blob/master/README.md)
@@ -157,4 +145,3 @@ A list of links to articles, Tools and tutorials to help me improve my skills an
 * Code Snippets WP Speed Up [Code Snippets for WordPress and WooCommercce speed up which can be imported into the plugin.](https://github.com/lukecav/code-snippets-wp-speed-up)
 * [Collection of mostly WordPress Code Snippets](https://github.com/senlin/Code-Snippets)
 * 10up [We make finely crafted websites and tools for content creators](https://github.com/10up)
->>>>>>> origin/master
