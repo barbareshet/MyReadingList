@@ -12,6 +12,9 @@ A list of links to articles, Tools and tutorials to help me improve my skills an
 ## WordPress Development(WP Related blogs):
 * [Tom Mc'Farlin'S blog](https://tommcfarlin.com) 
 * [Igor Benic's site](http://www.ibenic.com/)
+* [Carl Alexander's Blog](https://carlalexander.ca/)
+* [Ahmad Awais's Blog](https://ahmadawais.com/)
+* [Roy Sivan's Blog](https://roysivan.com/)
 * [wpmudev blog](https://premium.wpmudev.org/blog/)
 * [WordPress Code Tutorials by Tuts+](https://code.tutsplus.com/categories/wordpress)
 * ### WordPress Boilerplate and starter themes
@@ -25,9 +28,6 @@ A list of links to articles, Tools and tutorials to help me improve my skills an
 * [gulp](https://gulpjs.com/)
 * [Twitter Bootstrap](http://getbootstrap.com/)
 * [Zurb Foundation](http://foundation.zurb.com/)
-
-## PHP (as general topic)
-* [Carl Alexander's Blog](https://carlalexander.ca/)
 
 ## JavaScript and jQuery (main sites and ducomantation)
 * [Jquery.com](https://jquery.com/)
@@ -50,6 +50,7 @@ A list of links to articles, Tools and tutorials to help me improve my skills an
 *  bootstrap sass and gulp [Link To Repository](https://github.com/leadout/bootstrap-sass-gulp)
 * [Gulp WordPress](https://github.com/ahmadawais/WPGulp)
 * [WPGulp Boilerplate](https://github.com/ahmadawais/WPGulpTheme)
+* [Advanced Gulp Workflow for WordPress Themes](https://ahmadawais.com/my-advanced-gulp-workflow-for-wordpress-themes/)
 
 ## Blogs of Developers (general)
 * [coding horror](https://blog.codinghorror.com/)
@@ -60,4 +61,9 @@ A list of links to articles, Tools and tutorials to help me improve my skills an
 
 ## Free html5 themes / templates
 * [templated](https://templated.co/)
+
+## IL Blogs about web dev
+* [אינטרנט ישראל](https://internet-israel.com/)
+* [סאבי](https://he.savvy.co.il/blog/)
+* [דורזקי](https://www.dorzki.co.il/)
 
