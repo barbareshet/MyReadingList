@@ -30,12 +30,13 @@ A list of links to articles, Tools and tutorials to help me improve my skills an
 * [WordPress Code Tutorials by Tuts+](https://code.tutsplus.com/categories/wordpress)
 
 * ### WordPress Boilerplate and starter themes
-* _s - underscore
-* Plugin Boilerplate
-* understrap
-* woocommerce storefront
+* _s - [underscore](http://underscores.me/)
+* [Plugin Boilerplate Generator](https://wppb.me/)
+* [understrap](https://understrap.com/)
+* [WooCommerce storefront](https://woocommerce.com/storefront/)
 * Awesome WordPress [A curated list of amazingly awesome WordPress resources, themes, plugins and shiny things.](https://github.com/lukecav/awesome-wordpress)
 * WordPress Gear [A bunch of gear for WP developers](https://github.com/lukecav/WordPress-Gear)
+
 ### OOP in WordPress
 * Object-Oriented WordPress Plugin Development by [Tom McFarlin](http://tommcfarlin.com/object-oriented-wordpress-plugin/)
 * WP + You + OOP by[Scott Taylor](http://scotty-t.com/2012/07/09/wp-you-oop/)
@@ -76,6 +77,9 @@ A list of links to articles, Tools and tutorials to help me improve my skills an
 
 ## JavaScript and jQuery (main sites and ducomantation)
 * [Jquery.com](https://jquery.com/)
+* [ReactJS](https://reactjs.org/)
+* Material Design Components [Material UI](https://material-ui.com/)
+
 
 ## CSS
 
@@ -139,6 +143,7 @@ A list of links to articles, Tools and tutorials to help me improve my skills an
 * [WooCommerce PDF Invoices](https://github.com/baselbers/woocommerce-pdf-invoices)
 * [WooCommerce Yoast SEO](https://github.com/Yoast/wpseo-woocommerce)
 * [Developing a WooCommerce Theme](https://github.com/tutsplus/developing-a-woocommerce-theme)
+* [WooCommerce Customization Free Video Lessons](https://businessbloomer.com/)
 ## Cool Git Repositories / Resources
 * WordPress Premium [Premium WordPress plugins and themes synchronized to GitHub](https://github.com/wp-premium)
 * Tuts+ [repository](https://github.com/tutsplus)
