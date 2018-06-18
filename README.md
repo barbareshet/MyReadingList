@@ -16,11 +16,8 @@ A list of links to articles, Tools and tutorials to help me improve my skills an
 * [The 100 Oldest Plugins in The WordPress Plugins Directory](https://isabelcastillo.com/oldest-plugins)
 * [40 Best jQuery Plugins for Web Developers](http://www.webdesigndev.com/best-jquery-plugins/)
 ## WordPress Development (WP Related blogs):
-
 * [Moving Beyond WordPress for CMS with Component IO](https://scotch.io/tutorials/moving-beyond-wordpress-for-cms)
-
 ## WordPress Development(WP Related blogs):
-
 * [Tom Mc'Farlin'S blog](https://tommcfarlin.com) 
 * [Igor Benic's site](http://www.ibenic.com/)
 * [Carl Alexander's Blog](https://carlalexander.ca/)
@@ -28,15 +25,24 @@ A list of links to articles, Tools and tutorials to help me improve my skills an
 * [Roy Sivan's Blog](https://roysivan.com/)
 * [wpmudev blog](https://premium.wpmudev.org/blog/)
 * [WordPress Code Tutorials by Tuts+](https://code.tutsplus.com/categories/wordpress)
-
-* ### WordPress Boilerplate and starter themes
+### Gutenberg Resources
+* [Gutenberg Handbook](https://wordpress.org/gutenberg/handbook/)
+* [53 Resources for Developers & Designers building Blocks for Gutenberg](https://gutenbergtimes.com/53-resources-for-developers-designers-building-blocks-for-gutenberg/)
+* [Create-Guten-Block Toolkit](https://wpcouple.com/create-guten-block-toolkit-build-custom-gutenberg-blocks/)
+* [Generate Blocks with WP-CLI](https://wordpress.org/gutenberg/handbook/blocks/generate-blocks-with-wp-cli/)
+* [Learning Gutenberg w/ CSS Tricks](https://css-tricks.com/learning-gutenberg-1-series-intro/)
+* [How to Build a Gutenberg Block with Custom Styles](https://modularwp.com/gutenberg-block-custom-styles/)
+* [Starter kit and reusable scripts](https://gziolo.pl/2017/11/07/starter-kit-and-reusable-scripts/)
+* [Building Custom Gutenberg Blocks with the RichText Component](https://jasonyingling.me/building-custom-gutenberg-blocks-with-the-richtext-component/)
+* [How to create headless apps & awesome things with Gutenberg](https://arcctrl.com/2018/04/24/how-to-gutenberg-headless/)
+* [Gutenberg for Enterprises Free Course](https://vipgutenberg.com/courses/gutenberg-for-enterprises/)
+### WordPress Boilerplate and starter themes
 * _s - [underscore](http://underscores.me/)
 * [Plugin Boilerplate Generator](https://wppb.me/)
 * [understrap](https://understrap.com/)
 * [WooCommerce storefront](https://woocommerce.com/storefront/)
 * Awesome WordPress [A curated list of amazingly awesome WordPress resources, themes, plugins and shiny things.](https://github.com/lukecav/awesome-wordpress)
 * WordPress Gear [A bunch of gear for WP developers](https://github.com/lukecav/WordPress-Gear)
-
 ### OOP in WordPress
 * Object-Oriented WordPress Plugin Development by [Tom McFarlin](http://tommcfarlin.com/object-oriented-wordpress-plugin/)
 * WP + You + OOP by[Scott Taylor](http://scotty-t.com/2012/07/09/wp-you-oop/)
@@ -49,7 +55,6 @@ A list of links to articles, Tools and tutorials to help me improve my skills an
 * Object-Oriented Programming for WordPress Plugin Development by [Mike Toppa](http://www.slideshare.net/mtoppa/object-oriented-programming-for-wordpress-plugin-development)
 * Designing Object-Oriented Plugins for a Procedural Application by [Ian Dunn](http://iandunn.name/designing-object-oriented-plugins-for-a-procedural-application/)
 * Awesome WP Developer Tools [A collection of plugins, starter themes and tools to make WordPress development easier.](https://github.com/lukecav/awesome-wp-developer-tools)
-
 ### WP Starters / Examples
 * [OOP Plugin Template Solution](https://github.com/convissor/oop-plugin-template-solution) by Daniel Convissor
 * [Sidecar](https://github.com/newclarity/sidecar) by Mike Schinkel
@@ -61,8 +66,6 @@ A list of links to articles, Tools and tutorials to help me improve my skills an
 * [PW_Archives](http://wordpress.org/extend/plugins/pw-archives/) by Phillip Walton
 * [WordPress starter theme - Underscores](http://underscores.me/)
 * Awesome Divi [Resources for theme and page builder Divi.](https://github.com/lukecav/awesome-divi)
-
-
 ## DevTools (main sites and documentation)
 * [Travis-CI](https://travis-ci.org/)
 * [gulp](https://gulpjs.com/)
@@ -75,12 +78,16 @@ A list of links to articles, Tools and tutorials to help me improve my skills an
 * [Object Oriented PHP for Beginners](http://www.killerphp.com/tutorials/object-oriented-php/)
 
 
-## JavaScript and jQuery (main sites and ducomantation)
+## JavaScript and jQuery (main sites and documentation)
 * [Jquery.com](https://jquery.com/)
 * [ReactJS](https://reactjs.org/)
 * Material Design Components [Material UI](https://material-ui.com/)
 * [MDB](https://mdbootstrap.com/) - Material Design / Bootstrap 4 templates / components for [React](https://mdbootstrap.com/react/), [Vue](https://mdbootstrap.com/vue/), and plain old [HTML5](https://mdbootstrap.com/material-design-for-bootstrap/)
-
+### JavaScript
+* [The JavaScript Checklist Manifesto: You Need a Starter Kit](https://medium.com/@housecor/the-javascript-checklist-manifesto-you-need-a-starter-kit-d463b8908131)
+* [Your last ESLint config](https://medium.com/@netczuk/your-last-eslint-config-9e35bace2f99)
+### React
+* [Create Apps with No Configuration](https://reactjs.org/blog/2016/07/22/create-apps-with-no-configuration.html)
 
 ## CSS
 
@@ -146,6 +153,7 @@ A list of links to articles, Tools and tutorials to help me improve my skills an
 * [WooCommerce Yoast SEO](https://github.com/Yoast/wpseo-woocommerce)
 * [Developing a WooCommerce Theme](https://github.com/tutsplus/developing-a-woocommerce-theme)
 * [WooCommerce Customization Free Video Lessons](https://businessbloomer.com/)
+
 ## Cool Git Repositories / Resources
 * WordPress Premium [Premium WordPress plugins and themes synchronized to GitHub](https://github.com/wp-premium)
 * Tuts+ [repository](https://github.com/tutsplus)
